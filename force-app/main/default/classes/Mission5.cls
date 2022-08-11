@@ -9,7 +9,7 @@ Input Display
 12 (multiple of 3) Ding
 20 (multiple of 5) Dong
 30 (multiple of 3 and 5) DingDong
-17 (not multiples of 3 or 5) 17 --------------- */
+17 (not multiples of 3 or 5) 17 -----*/
     
     public static void displayDingDong(){
         List<Integer> numValue = new List<Integer>();
